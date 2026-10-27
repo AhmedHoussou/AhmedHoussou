@@ -1,5 +1,5 @@
 # Hi, I'm Ahmed Houssou 👋
-### Senior SDET & Test Infrastructure Engineer
+### SDET & Test Infrastructure Engineer
 
 Specializing in **autonomous test architectures, AI-augmented runtime resilience, and developer productivity tooling** across TypeScript, Playwright, Node.js, and CI/CD pipelines.
 
